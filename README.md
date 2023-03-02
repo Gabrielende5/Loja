@@ -36,4 +36,11 @@
 
 ```git checkout nome-da-branch```
 
+## configurar o email:
+
+```git config --global user.email "gabrielende53@gmail.com"``
+
+## configurar o name:
+
+
 
